@@ -3,6 +3,7 @@
 
 ## Google Colab Setup
 -Open the notebook in colab 
+
 -Execute cell by cell. Or **Just run all in one go** then upload the csv file through third code cell. That's it.
 
 
